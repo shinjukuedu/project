@@ -4,7 +4,8 @@
         extend: {
           colors: {
             clifford: '#da373d',
-          }
+          },
+          fontFamily:["Manrope", 'sans-serif']
         }
       }
     }
